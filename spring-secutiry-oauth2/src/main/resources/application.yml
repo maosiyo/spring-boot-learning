@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-secutiry-oauth2
+logging:
+  #file: ${spring.application.name}.log
+  level:
+    com.maosiyoo: ${LOG_LEVEL:debug}
+    #org.springframework.security: ${LOG_LEVEL:debug}
+    #org.apache.tomcat.util.http: ${LOG_LEVEL:debug}

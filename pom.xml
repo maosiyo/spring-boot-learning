@@ -20,6 +20,7 @@
         <!-- 工程模块请随着项目的不断完善自行添加 -->
         <module>spring-boot-dependencies</module>
         <module>spring-secutiry-oauth2</module>
+        <module>api-front</module>
     </modules>
 
 </project>
